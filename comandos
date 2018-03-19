@@ -1,0 +1,14 @@
+ 
+git init
+git add nombre archivo
+
+git commit -m "first commit"
+git remote add origin https://github.com/zonnel/Ensamblador.git
+git push -u origin master
+
+
+//AGREGANDO UN NUEVO ARCHIVO EN GITHUB
+
+git add nombrearchivo
+git commit -m "comentarioacerca del archivo"
+git push -u origin master
